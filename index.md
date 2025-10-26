@@ -6,4 +6,10 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+#### chexbox added
+- [x] header
+- [x] image
+- [x] code
+- [x] chechbox
+- [ ] next step  
 
